@@ -6,7 +6,7 @@
 
 ## 📊 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duckevils&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushsniper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ## 🛠️ 
 
@@ -14,4 +14,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=duckevils&color=blueviolet&style=flat-square&label=Profil+Görüntüleme)
+![Profile Views](https://komarev.com/ghpvc/?username=rushsniper&color=blueviolet&style=flat-square&label=Profil+Görüntüleme)
