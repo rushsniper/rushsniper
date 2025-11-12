@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**rushsniper/rushsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Discord
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/640689367521689612?bg=0d1117)](https://discord.com/users/640689367521689612)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duckevils&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+## 🛠️ 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=duckevils&color=blueviolet&style=flat-square&label=Profil+Görüntüleme)
